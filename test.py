@@ -26,5 +26,6 @@ def traverse(q):
 traverse(g)
 
 #11
+#12
 #21
 #22
